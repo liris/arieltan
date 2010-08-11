@@ -1,0 +1,9 @@
+=========
+arieltan
+=========
+
+Yet Another Twitter Bot
+
+Usage:
+  python arieltan.py $twitter_id $password
+

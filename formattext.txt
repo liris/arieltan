@@ -1,0 +1,6 @@
+[greeting]
+follow=@%%s フォロー、ありがとうございます。
+
+[search]
+lang=ja
+terms=cloud,P2P,java,tomcat,emacs,lisp,python,apache,arielarea,golang,ipad,iphone,iOS,mac,macbook,macbookair,VPS,VirtualMachine
